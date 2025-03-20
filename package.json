@@ -18,5 +18,6 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.0.1"
-  }
+  },
+  "types": "index.d.ts"
 }
